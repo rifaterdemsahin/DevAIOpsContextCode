@@ -16,8 +16,8 @@ Practical Terminal Commands From Your Workstation
 ```bash
 git pull; git add . ; git commit -m "Thanos Proxy implement " -m "initial commit " ; git push;clear
 ```
-Symbols/git_push.sh "living the dream"
-Symbols/git_push.sh "nginx push"
+6_Symbols/git_push.sh "living the dream"
+6_Symbols/git_push.sh "nginx push"
 
 
 ## License
