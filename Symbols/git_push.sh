@@ -13,5 +13,6 @@ COMMIT_MESSAGE=$1
 # Perform Git operations
 git pull
 git add .
+git commit -m "Self Learning Project / Codespaces Push "
 git commit -m "$COMMIT_MESSAGE"
 git push
