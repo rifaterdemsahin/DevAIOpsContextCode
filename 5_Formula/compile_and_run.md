@@ -9,3 +9,7 @@
     ./hello
     /workspaces/cplusplus/6_Symbols/hello
     ```
+
+
+
+    g++ -o inout /workspaces/cplusplus/6_Symbols/inout.cpp
